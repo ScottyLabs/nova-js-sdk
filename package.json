@@ -1,0 +1,25 @@
+{
+  "name": "nova-js-sdk",
+  "version": "0.0.1",
+  "description": "A Javascript/Typescript client SDK for the Nova hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyLabs/nova-js-sdk.git"
+  },
+  "keywords": [
+    "AI",
+    "Nova",
+    "hackathon",
+    "ScottyLabs"
+  ],
+  "author": "ScottyLabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottyLabs/nova-js-sdk/issues"
+  },
+  "homepage": "https://github.com/ScottyLabs/nova-js-sdk#readme"
+}
